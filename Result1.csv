@@ -1,0 +1,2 @@
+employee_id,last_name,first_name,title,reports_to,levels,birthdate,hire_date,address,city,state,country,postal_code,phone,fax,email
+1,Adams,Andrew,"General Manager",9,L6,"18-02-1962 00:00","14-08-2016 00:00","11120 Jasper Ave NW",Edmonton,AB,Canada,"T5K 2N1","+1 (780) 428-9482","+1 (780) 428-3457",andrew@chinookcorp.com
